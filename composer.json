@@ -1,0 +1,9 @@
+{
+  "name": "skaynetmenwatermark",
+  "description": "Graduation project Loftschool.com",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "websafe/lib-websafe-blueimp-jquery-file-upload-handler": "^9.11"
+  }
+}

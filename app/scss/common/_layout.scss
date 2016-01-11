@@ -1,0 +1,28 @@
+body {
+  background-color: #f4f4f4;
+  font-family: 'open_sansregular', 'Open Sans Regular', sans-serif;
+  font-size: $font-size;
+  color: $color;
+}
+
+.wrapper {
+  min-width: $container-width + 20;
+  min-height: 100%;
+  margin-bottom: -$footer-height;
+
+  &:after {
+    display: block;
+    content: ' ';
+    height: $footer-height;
+  }
+}
+
+.container {
+  width: $container-width;
+  margin: 0 auto;
+}
+
+.footer {
+  min-width: $container-width + 20;
+  height: $footer-height;
+}
