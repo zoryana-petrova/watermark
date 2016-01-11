@@ -3,9 +3,10 @@
 node_modules
 dist
 app/bower
-app/*.html
 app/css/*.css
 app/css/*.map
 app/img/icons-*.png
 app/js/bundle.js
 vendor
+app/uploads
+.DS_Store

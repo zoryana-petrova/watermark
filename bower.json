@@ -1,5 +1,12 @@
 {
   "name": "skaynetmenwatermark",
   "dependencies": {
+    "jquery.iframe-transport": "~1.0.0",
+    "jquery": "~2.2.0",
+    "jquery-ui": "~1.11.4"
+  },
+  "devDependencies": {
+    "jquery.iframe-transport": "~1.0.0",
+    "blueimp-file-upload": "~9.11.2"
   }
 }

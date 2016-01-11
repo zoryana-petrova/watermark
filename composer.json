@@ -4,6 +4,6 @@
   "license": "MIT",
   "minimum-stability": "stable",
   "require": {
-    "websafe/lib-websafe-blueimp-jquery-file-upload-handler": "^9.11"
+    "websafe/lib-websafe-blueimp-jquery-file-upload-handler": "~9.11"
   }
 }
